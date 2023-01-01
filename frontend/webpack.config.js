@@ -8,6 +8,6 @@ module.exports = {
     filename: "[name].bundle.js",
   },
   module: {
-    rules: [{ test: /\.js/ }],
+    rules: [{ test: /\.js/, exclude: /(node_modules)/ }],
   },
 };
