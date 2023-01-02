@@ -29,4 +29,5 @@ module.exports = {
   ],
   stats: "minimal",
   devtool: "source-map",
+  mode: "development",
 };
