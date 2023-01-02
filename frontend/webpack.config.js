@@ -30,5 +30,5 @@ module.exports = {
   stats: "minimal",
   devtool: "source-map",
   mode: "development",
-  devServer: {},
+  devServer: { open: false },
 };
