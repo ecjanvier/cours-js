@@ -30,5 +30,9 @@ module.exports = {
   stats: "minimal",
   devtool: "source-map",
   mode: "development",
-  devServer: { open: false, static: path.resolve(__dirname, "./dist") },
+  devServer: {
+    open: false,
+    static: path.resolve(__dirname, "./dist"),
+    watchFiles: ["./src/**"],
+  },
 };
