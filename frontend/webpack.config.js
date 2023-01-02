@@ -35,5 +35,6 @@ module.exports = {
     static: path.resolve(__dirname, "./dist"),
     watchFiles: ["./src/**"],
     port: 4000,
+    hot: true,
   },
 };
