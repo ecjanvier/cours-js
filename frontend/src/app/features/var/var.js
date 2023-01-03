@@ -21,4 +21,6 @@ console.log(b); // 2
 // Problème n°3 : déclaration mutliple
 var i = 1;
 var i = 2;
-var ajouter = function (a, b) {};
+var ajouter = function (a, b) {
+  return a + b;
+};
