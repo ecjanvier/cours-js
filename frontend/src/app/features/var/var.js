@@ -19,3 +19,4 @@ console.log(a); // 3
 console.log(b); // 2
 
 // Problème n°3 : déclaration mutliple
+var i = 1;
