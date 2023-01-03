@@ -10,4 +10,5 @@ console.log(x); // 2
 var a = 1;
 var b = 2;
 if (a === 1) {
+  var a = 3; // la portée est globale
 }
