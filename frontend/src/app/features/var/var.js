@@ -7,3 +7,4 @@ if (true) {
 console.log(x); // 2
 
 // Problème n°2 : la portée
+var a = 1;
