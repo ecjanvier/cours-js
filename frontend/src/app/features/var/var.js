@@ -9,3 +9,5 @@ console.log(x); // 2
 // Problème n°2 : la portée
 var a = 1;
 var b = 2;
+if (a === 1) {
+}
