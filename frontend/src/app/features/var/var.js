@@ -15,3 +15,4 @@ if (a === 1) {
   console.log(a); // 3
   console.log(b); // 4
 }
+console.log(a); // 3
