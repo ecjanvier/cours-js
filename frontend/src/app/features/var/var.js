@@ -11,4 +11,5 @@ var a = 1;
 var b = 2;
 if (a === 1) {
   var a = 3; // la portée est globale
+  let b = 4; // la portée est celle du bloc
 }
