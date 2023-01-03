@@ -1,2 +1,1 @@
-const age = 15;
-console.log(15);
+var x = 1;
