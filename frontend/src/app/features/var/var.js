@@ -32,5 +32,5 @@ var ajouter = function (a, b) {
 for (var i = 0; i < 10; i++) {
   setTimeout(() => {
     console.log(i);
-  });
+  }, 10);
 }
