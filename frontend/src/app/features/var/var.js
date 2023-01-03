@@ -24,3 +24,4 @@ var i = 2;
 var ajouter = function (a, b) {
   return a + b;
 };
+var ajouter = function (a, b) {};
