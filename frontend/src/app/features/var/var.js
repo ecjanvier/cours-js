@@ -13,4 +13,5 @@ if (a === 1) {
   var a = 3; // la portée est globale
   let b = 4; // la portée est celle du bloc
   console.log(a); // 3
+  console.log(b); // 4
 }
