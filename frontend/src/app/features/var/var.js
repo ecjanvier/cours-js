@@ -27,3 +27,5 @@ var ajouter = function (a, b) {
 var ajouter = function (a, b) {
   return a + b;
 };
+
+// Problème n°4 : boucle et asynchrone
