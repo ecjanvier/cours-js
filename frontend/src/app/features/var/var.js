@@ -29,3 +29,4 @@ var ajouter = function (a, b) {
 };
 
 // Problème n°4 : boucle et asynchrone
+for (var i = 0; i < 10; i++) {}
