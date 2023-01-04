@@ -8,4 +8,4 @@ const personne = {
   prenom: "Paul",
 };
 personne.prenom = "Dupont";
-console.log(personne);
+console.log(personne); // Dupont
