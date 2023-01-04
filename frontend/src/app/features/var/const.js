@@ -7,3 +7,4 @@ console.log(age); // 12
 const personne = {
   prenom: "Paul",
 };
+personne.prenom = "Dupont";
