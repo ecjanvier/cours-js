@@ -7,3 +7,4 @@ if (true) {
   let test2 = true;
   console.log(test2); // true
 }
+console.log(test2);
