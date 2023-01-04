@@ -5,4 +5,5 @@ console.log(test); // 51
 let test2 = false;
 if (true) {
   let test2 = true;
+  console.log(test2); // true
 }
