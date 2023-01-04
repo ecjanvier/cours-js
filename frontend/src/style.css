@@ -3,4 +3,5 @@
 /* header */
 header {
   background-color: var(--primary);
+  padding: 1.5rem;
 }
