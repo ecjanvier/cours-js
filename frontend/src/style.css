@@ -31,5 +31,5 @@ body {
   min-height: 100vh;
   display: flex;
   flex-flow: column;
-  color: ;
+  color: var(--text-color);
 }
