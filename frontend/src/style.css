@@ -40,8 +40,3 @@ header {
   padding: 1.5rem;
   box-shadow: var(--box-shodow);
 }
-
-.logo {
-  font-weight: 700;
-  font-size: 2rem;
-}
