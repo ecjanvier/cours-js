@@ -38,5 +38,5 @@ body {
 header {
   background-color: var(--primary);
   padding: 1.5rem;
-  box-shadow: var(--box-sho);
+  box-shadow: var(--box-shod);
 }
