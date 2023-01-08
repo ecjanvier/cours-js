@@ -46,5 +46,5 @@ header {
   flex: 1;
   display: flex;
   flex-flow: row;
-  justify-content: cen;
+  justify-content: cent;
 }
