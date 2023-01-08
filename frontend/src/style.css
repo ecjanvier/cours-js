@@ -45,5 +45,5 @@ header {
 .content {
   flex: 1;
   display: flex;
-  flex-flow: ro;
+  flex-flow: row;
 }
