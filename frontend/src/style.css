@@ -55,5 +55,5 @@ footer {
   display: flex;
   background: var(--dark);
   flex-flow: row-reverse;
-  color: ;
+  color: var();
 }
