@@ -53,5 +53,5 @@ header {
 /* Footer */
 footer {
   display: flex;
-  background: var(--dar);
+  background: var(--dark);
 }
