@@ -44,7 +44,7 @@ header {
 .logo {
   font-weight: 700;
   font-size: 2rem;
-  color: var(--text-color-l);
+  color: var(--text-color-li);
 }
 
 /* content */
