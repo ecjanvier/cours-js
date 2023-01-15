@@ -41,7 +41,8 @@ header {
   box-shadow: var(--box-shodow);
 }
 
-.logo {
+.logo,
+f {
   font-weight: 700;
   font-size: 2rem;
   color: var(--text-color-light);
