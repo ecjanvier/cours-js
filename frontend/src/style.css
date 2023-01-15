@@ -42,7 +42,7 @@ header {
 }
 
 .logo,
-foo {
+foot {
   font-weight: 700;
   font-size: 2rem;
   color: var(--text-color-light);
