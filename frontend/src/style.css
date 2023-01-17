@@ -58,7 +58,7 @@ header {
   /* same as logo and footer */
   font-weight: 700;
   font-size: 2rem;
-  color: var(--text-color-l);
+  color: var(--text-color-li);
 }
 
 /* footer */
