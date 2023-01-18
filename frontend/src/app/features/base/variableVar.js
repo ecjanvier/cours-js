@@ -1,4 +1,4 @@
 // la variable : var
 
 // déclaration :
-var varN;
+var varNa;
