@@ -1,3 +1,3 @@
 // la variable : var
 
-// déclar
+// déclara
