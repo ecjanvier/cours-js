@@ -1,4 +1,4 @@
 // la variable : var
 
 // déclaration :
-var varNam;
+var varName;
