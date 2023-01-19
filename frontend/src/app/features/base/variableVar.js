@@ -2,4 +2,4 @@
 
 // déclaration :
 var varName;
-console.log(varNa);
+console.log(varNam);
