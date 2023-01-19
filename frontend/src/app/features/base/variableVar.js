@@ -2,3 +2,4 @@
 
 // déclaration :
 var varName;
+c;
