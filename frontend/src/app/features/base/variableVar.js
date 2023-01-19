@@ -2,4 +2,4 @@
 
 // déclaration :
 var varName;
-console.log(varName); // undefined car p
+console.log(varName); // undefined car pa
