@@ -2,4 +2,4 @@
 
 // déclaration :
 var varName;
-conso;
+consol;
