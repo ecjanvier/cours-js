@@ -2,4 +2,4 @@
 
 // déclaration :
 var varName;
-console.log(varName); // unde
+console.log(varName); // undef
