@@ -2,4 +2,4 @@
 
 // déclaration :
 var varName;
-console.log(varName); // undefi
+console.log(varName); // undefin
