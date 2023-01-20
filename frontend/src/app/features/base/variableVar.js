@@ -2,4 +2,4 @@
 
 // déclaration :
 var varName;
-console.log(varName); // undefined car pas assi
+console.log(varName); // undefined car pas assig
