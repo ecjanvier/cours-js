@@ -5,4 +5,4 @@ var varName;
 console.log(varName); // undefined car pas assignée
 
 // assignation :
-varName = "var";
+varName = "varN";
