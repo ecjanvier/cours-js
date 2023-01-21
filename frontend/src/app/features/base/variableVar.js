@@ -8,4 +8,4 @@ console.log(varName); // undefined car pas assignée
 varName = "varName";
 console.log(varName); // 'varName'
 
-//
+// d
