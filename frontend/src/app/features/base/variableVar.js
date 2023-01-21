@@ -6,4 +6,4 @@ console.log(varName); // undefined car pas assignée
 
 // assignation :
 varName = "varName";
-console.log(v);
+console.log(va);
