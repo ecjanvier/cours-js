@@ -9,4 +9,4 @@ varName = "varName";
 console.log(varName); // 'varName'
 
 // déclaration + assignation :
-var myVar = "myVa";
+var myVar = "myVar";
