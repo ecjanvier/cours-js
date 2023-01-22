@@ -10,4 +10,4 @@ console.log(varName); // 'varName'
 
 // déclaration + assignation :
 var myVar = "myVar";
-co;
+con;
