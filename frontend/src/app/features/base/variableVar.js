@@ -11,3 +11,5 @@ console.log(varName); // 'varName'
 // déclaration + assignation :
 var myVar = "myVar";
 console.log(myVar); // 'myVar'
+
+/
