@@ -12,4 +12,4 @@ console.log(varName); // 'varName'
 var myVar = "myVar";
 console.log(myVar); // 'myVar'
 
-// multiple déclaratio
+// multiple déclaration
