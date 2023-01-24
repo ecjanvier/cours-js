@@ -13,4 +13,4 @@ var myVar = "myVar";
 console.log(myVar); // 'myVar'
 
 // multiple déclarations :
-var my;
+var myV;
