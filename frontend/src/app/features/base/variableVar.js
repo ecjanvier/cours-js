@@ -18,4 +18,4 @@ var myVar1, myVar2, myVar3;
 // multiple assignations :
 myVar1 = 1;
 myVar2 = 2;
-myVar;
+myVar3;
