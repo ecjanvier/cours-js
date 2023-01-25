@@ -17,4 +17,4 @@ var myVar1, myVar2, myVar3;
 
 // multiple assignations :
 myVar1 = 1;
-myV;
+myVa;
