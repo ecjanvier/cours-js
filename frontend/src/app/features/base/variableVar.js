@@ -20,4 +20,4 @@ myVar1 = 1;
 myVar2 = 2;
 myVar3 = 3;
 
-console.lo;
+console.log;
