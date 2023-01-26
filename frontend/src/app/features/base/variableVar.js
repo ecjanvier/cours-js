@@ -21,3 +21,5 @@ myVar2 = 2;
 myVar3 = 3;
 
 console.log(myVar1, myVar2, myVar3); // 1 2 3
+
+/
