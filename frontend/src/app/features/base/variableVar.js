@@ -25,4 +25,4 @@ console.log(myVar1, myVar2, myVar3); // 1 2 3
 // réassignation d'une variable var :
 var nomDeLaVariableVar;
 nomDeLaVariableVar = 1;
-nomDeLaVariabl;
+nomDeLaVariable;
