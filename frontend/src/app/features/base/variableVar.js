@@ -26,4 +26,4 @@ console.log(myVar1, myVar2, myVar3); // 1 2 3
 var nomDeLaVariableVar;
 nomDeLaVariableVar = 1;
 nomDeLaVariableVar = [1, 2, 3];
-nom;
+nomD;
