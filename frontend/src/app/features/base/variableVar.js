@@ -29,3 +29,5 @@ nomDeLaVariableVar = 1;
 nomDeLaVariableVar = [1, 2, 3];
 nomDeLaVariableVar = "nomDeLaVariableVar";
 console.log(nomDeLaVariableVar); // 'nomDeLaVariableVar'
+
+/
