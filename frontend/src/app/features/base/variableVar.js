@@ -31,4 +31,4 @@ nomDeLaVariableVar = "nomDeLaVariableVar";
 console.log(nomDeLaVariableVar); // 'nomDeLaVariableVar'
 
 // hoisting
-console.log(varHoisting); // undefined à cause du hois
+console.log(varHoisting); // undefined à cause du hoist
