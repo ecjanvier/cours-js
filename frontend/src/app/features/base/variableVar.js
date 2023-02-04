@@ -36,3 +36,5 @@ var varHoisting = "varHoisting";
 console.log(varHoisting); // 'varHoisting'
 
 // problème avec var :
+
+/
