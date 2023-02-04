@@ -37,4 +37,4 @@ console.log(varHoisting); // 'varHoisting'
 
 // problème avec var :
 
-// pa
+// pas
