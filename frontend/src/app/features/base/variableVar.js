@@ -37,4 +37,4 @@ console.log(varHoisting); // 'varHoisting'
 
 // problème avec var :
 
-// pas d'identifiant uniqu
+// pas d'identifiant unique
