@@ -38,4 +38,4 @@ console.log(varHoisting); // 'varHoisting'
 // problème avec var :
 
 // pas d'identifiant unique
-var idUnique = "";
+var idUnique = "u";
