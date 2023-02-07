@@ -40,4 +40,4 @@ console.log(varHoisting); // 'varHoisting'
 // pas d'identifiant unique
 var idUnique = "unique";
 var idUnique = "pasUnique";
-console.log(idUnique); // 'pasUnique' car il a écrasé la premi
+console.log(idUnique); // 'pasUnique' car il a écrasé la premiè
