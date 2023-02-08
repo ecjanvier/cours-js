@@ -44,4 +44,5 @@ console.log(idUnique); // 'pasUnique' car il a écrasé la première valeur
 
 // pas de portée de bloc
 {
+  v;
 }
