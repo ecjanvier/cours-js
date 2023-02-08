@@ -42,4 +42,4 @@ var idUnique = "unique";
 var idUnique = "pasUnique";
 console.log(idUnique); // 'pasUnique' car il a écrasé la première valeur
 
-// pas d
+// pas de
