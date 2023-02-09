@@ -46,3 +46,4 @@ console.log(idUnique); // 'pasUnique' car il a écrasé la première valeur
 {
   var pasDeBloc = "pasDeBloc";
 }
+c;
