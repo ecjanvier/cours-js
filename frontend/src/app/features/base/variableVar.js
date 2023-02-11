@@ -46,4 +46,4 @@ console.log(idUnique); // 'pasUnique' car il a écrasé la première valeur
 {
   var pasDeBloc = "pasDeBloc";
 }
-console.log(pasDeBloc); // 'pasDeBloc' car pas de por
+console.log(pasDeBloc); // 'pasDeBloc' car pas de port
