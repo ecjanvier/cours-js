@@ -48,4 +48,4 @@ console.log(idUnique); // 'pasUnique' car il a écrasé la première valeur
 }
 console.log(pasDeBloc); // 'pasDeBloc' car pas de portée de bloc
 
-// autre problème d
+// autre problème de
