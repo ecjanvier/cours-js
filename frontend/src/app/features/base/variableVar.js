@@ -50,4 +50,4 @@ console.log(pasDeBloc); // 'pasDeBloc' car pas de portée de bloc
 
 // autre problème de var :
 
-// problème n°1 : con
+// problème n°1 : conf
